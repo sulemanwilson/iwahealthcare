@@ -1,0 +1,10 @@
+node_modules
+dist
+*.tsbuildinfo
+
+# Secrets and local environment files (never commit)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
