@@ -1,0 +1,42 @@
+{
+  "siteUrl": "https://www.iwahealthcare.com",
+  "siteName": "IWA Healthcare",
+  "locale": "en_PK",
+  "image": "https://res.cloudinary.com/opwybh2g/image/upload/v1791636283/IWA_Healthcare_Sticker_Logo.png",
+  "imageAlt": "IWA Healthcare logo",
+  "organization": {
+    "legalName": "INTEGRATED WELLNESS ASSOCIATES (SMC-Pvt) LTD",
+    "email": "info@iwahealthcare.com",
+    "telephone": "+92-321-4069908",
+    "sameAs": [
+      "https://www.instagram.com/iwa_healthcare_official"
+    ],
+    "description": "Healthcare staffing and home-care service provider offering verified nurses, physiotherapists and patient attendants for homes, hospitals and clinics.",
+    "areaServed": [
+      "Lahore",
+      "Pakistan"
+    ]
+  },
+  "pages": {
+    "/": {
+      "title": "Home Nursing & Healthcare Staffing in Lahore | IWA Healthcare",
+      "description": "Verified home nurses, physiotherapists and patient attendants for homes, hospitals and clinics in Lahore and across Pakistan. Available 24/7."
+    },
+    "/about": {
+      "title": "About Us | IWA Healthcare - SECP Registered Care Provider, Lahore",
+      "description": "About IWA Healthcare, a project of INTEGRATED WELLNESS ASSOCIATES (SMC-Pvt) LTD, SECP registered (CUIN 0357337), bridging care and those who need it."
+    },
+    "/services": {
+      "title": "Home Nursing & Physiotherapy in Lahore | IWA Healthcare",
+      "description": "Home nursing, physiotherapy at home and on-site, caregivers and patient attendants, plus hospital and clinic staffing from IWA Healthcare in Lahore."
+    },
+    "/contact": {
+      "title": "Contact IWA Healthcare | Request a Nurse in Lahore",
+      "description": "Contact IWA Healthcare by phone, WhatsApp or email to request home nurses, caregivers, physiotherapists or hospital staff in Lahore."
+    },
+    "/privacy-policy": {
+      "title": "Privacy Policy | IWA Healthcare",
+      "description": "How IWA Healthcare handles information you share through its website, enquiry form, email and WhatsApp."
+    }
+  }
+}
